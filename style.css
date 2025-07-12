@@ -163,8 +163,10 @@ h1 span {
 
     .infos{
         flex-direction: row;
-        justify-content: space-between;
-        margin-top: 0;
+    }
+
+    .info{
+        margin-right: 2rem;
     }
 
 }
